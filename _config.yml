@@ -1,17 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: "Italo Izaac | Full Stack Developer"
+description: "Italo Izaac, desenvolvedor Full Stack com mais de 9 anos de experiência em desenvolvimento de sistemas."
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: "Italo Izaac"
+user_description: "Desenvolvedor Full Stack, autodidata. Atua há mais de 9 anos com desenvolvimento de sistemas na linguagem PHP. Agora trabalhando principalmente com tecnologias como: <u>Angular</u>, <u>NodeJS</u>, <u>React</u> e <u>React Native</u>. No seu tempo livre, assiste Netflix e fica com sua familia, gosta de pesquisar sobre espiritualidade, ufologia e principalmente tecnologias."
+user_title: "Full Stack Developer"
+email: "iiandrade@live.com"
+facebook_username: "iiandrade"
+linkedin_username: "iiandrade"
+github_username:  "iiandrade"
+#gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:

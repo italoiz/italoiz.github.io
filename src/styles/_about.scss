@@ -31,3 +31,39 @@
   text-align: center;
   margin: 5px auto;
 }
+
+.tech-details {
+  text-align: center;
+  margin: 5px auto;
+  width: 810px;
+  max-width: 100%;
+
+  .tech {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+
+    i {
+      font-size: 60px;
+      margin: 7px 15px;
+      transition: all 100ms linear;
+
+      &:hover {
+        transform: scale(1.5);
+      }
+    }
+  }
+
+  p {
+    margin-bottom: 40px;
+  }
+}
+
+.no-margin {
+  margin: 0;
+}
+.no-margin-bottom {
+  margin-bottom: 0;
+}
