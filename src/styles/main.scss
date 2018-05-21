@@ -35,6 +35,17 @@ div.row {
                 border-radius: 60px;
                 box-shadow: 0 0 30px darken(#ddd, 10%)
             }
+
+            @media screen and (max-width: 768px) {
+                margin-bottom: 10px;
+                margin-right: 0px !important;
+            }
         }
+    }
+
+    @media screen and (max-width: 768px) {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 }
